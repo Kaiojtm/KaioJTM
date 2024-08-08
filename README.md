@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🖤🧠
 
-<!--
-**Kaiojtm/KaioJTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧭 Meu Nome é Kaio
 
-Here are some ideas to get you started:
+-Estou estudando na Alura⚓
+-Estou me desenvolvendo na Linguagem JavaScript
+-Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos
+-### Voce pode entrar em cantato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧0000110649586xsp@al.educacao.sp.gov.br
+ @KaioEmanuel
+
+ ![](https://media1.tenor.com/m/BWk4_NBCmtgAAAAC/one-piece.gif)
+ ![](https://media1.tenor.com/m/usv1NOx2nLQAAAAC/one-piece-one-piece-anime.gif)
+ 
